@@ -7,3 +7,6 @@
 
 ## Description
 Great place to visit to the latest cool tech stuff..
+
+#### Steady hands on
+<img src="./assets/images/cat-computer.gif"/>
