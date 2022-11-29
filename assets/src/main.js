@@ -1,0 +1,1 @@
+console.log(`Cool code will be added there later`)
